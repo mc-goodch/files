@@ -7,11 +7,29 @@
         "1.18.2-recommended": "1.3.1-1.18.2"
     },
     "1.17.1": {
-        "1.3.0-1.17.1": "Stabby, Webby, Reachy update\n\n• Added a Diamethyst Knife. This short, stubby weapon has a fast attack speed, low attack damage, low durability, and cannot be enchanted. It is, however, extremely efficient at cutting through cobwebs without taking damage, and can cause extra strings to drop.\n• Added extended reach to all Diamethyst tools, which increases based upon the materials used in the tool's construction. The enhancement only affects the tool's utility function and does not extend attack range.\n• Made some minor adjustments to the textures of swords, sickles, and hilts.\n• Diamethyst Clusters can now be harvested intact by silk touch enchanted tools.\n• Added the missing lapis armor advancement.",
-        "1.3.1-1.17.1": "• Piglins can now be distracted by all gold based diamethyst items.\n• Implemented the forge mod version checking system.\n• Changed the mod file name and version format."
+        "1.3.1-1.17.1": "05/27/2022\n\n• Piglins can now be distracted by all gold based diamethyst items.\n• Implemented the forge mod version checking system.\n• Changed the mod file name and version format.",
+        "1.3.0-1.17.1": "05/24/2022: Stabby, Webby, Reachy update\n\n• Added a Diamethyst Knife. This short, stubby weapon has a fast attack speed, low attack damage, low durability, and cannot be enchanted. It is, however, extremely efficient at cutting through cobwebs without taking damage, and can cause extra strings to drop.\n• Added extended reach to all Diamethyst tools, which increases based upon the materials used in the tool's construction. The enhancement only affects the tool's utility function and does not extend attack range.\n• Made some minor adjustments to the textures of swords, sickles, and hilts.\n• Diamethyst Clusters can now be harvested intact by silk touch enchanted tools.\n• Added the missing lapis armor advancement.",
+        "1.2.3-1.17.1": "05/16/2022\n\n• Added back some missing netherite smithing recipes. (thanks justkeepmining)",
+        "1.2.2-1.17.1": "05/11/2022\n\n• Modified the lapis weapon confusion effect so it is more effective against mobs.\n• Fixed how the copper sword and sickle were being displayed while held in third person view.\n• Fixed a bug that prevented the netherite weapon fire damage effect from working correctly.",
+        "1.2.1-1.17.1": "05/07/2022\n\n• Fixed an issue with the copper plate recipe not working as expected.\n• Added missing copper advancements.",
+        "1.2.0-1.17.1": "05/03/2022: Lapis Update\n\n• Added lapis lazuli weapons, tools, armor, and horse armor.",
+        "1.1.0-1.17.1": "04/25/2022: Battle Axe Update\n\n• Added diamethyst battle axes.\n• Added copper weapons, tools, armor, and horse armor.",
+        "0.4.0-1.17.1": "04/19/2022\n\n• Back port to 1.17.1"
     },
     "1.18.2": {
-        "1.3.0-1.18.2": "Stabby, Webby, Reachy update\n\n• Added a Diamethyst Knife. This short, stubby weapon has a fast attack speed, low attack damage, low durability, and cannot be enchanted. It is, however, extremely efficient at cutting through cobwebs without taking damage, and can cause extra strings to drop.\n• Added extended reach to all Diamethyst tools, which increases based upon the materials used in the tool's construction. The enhancement only affects the tool's utility function and does not extend attack range.\n• Made some minor adjustments to the textures of swords, sickles, and hilts.\n• Diamethyst Clusters can now be harvested intact by silk touch enchanted tools.\n• Added the missing lapis armor advancement.",
-        "1.3.1-1.18.2": "• Piglins can now be distracted by all gold based diamethyst items.\n• Implemented the forge mod version checking system.\n• Changed the mod file name and version format."
+        "1.3.1-1.18.2": "05/27/2022\n\n• Piglins can now be distracted by all gold based diamethyst items.\n• Implemented the forge mod version checking system.\n• Changed the mod file name and version format.",
+        "1.3.0-1.18.2": "05/24/2022: Stabby, Webby, Reachy update\n\n• Added a Diamethyst Knife. This short, stubby weapon has a fast attack speed, low attack damage, low durability, and cannot be enchanted. It is, however, extremely efficient at cutting through cobwebs without taking damage, and can cause extra strings to drop.\n• Added extended reach to all Diamethyst tools, which increases based upon the materials used in the tool's construction. The enhancement only affects the tool's utility function and does not extend attack range.\n• Made some minor adjustments to the textures of swords, sickles, and hilts.\n• Diamethyst Clusters can now be harvested intact by silk touch enchanted tools.\n• Added the missing lapis armor advancement.",
+        "1.2.3-1.18.2": "05/16/2022\n\n• Added back some missing netherite smithing recipes. (thanks justkeepmining)",
+        "1.2.2-1.18.2": "05/11/2022\n\n• Modified the lapis weapon confusion effect so it is more effective against mobs.\n• Fixed how the copper sword and sickle were being displayed while held in third person view.\n• Fixed a bug that prevented the netherite weapon fire damage effect from working correctly.",
+        "1.2.1-1.18.2": "05/07/2022\n\n• Fixed an issue with the copper plate recipe not working as expected.\n• Added missing copper advancements.",
+        "1.2.0-1.18.2": "05/03/2022: Lapis Update\n\n• Added lapis lazuli weapons, tools, armor, and horse armor.",
+        "1.1.0-1.18.2": "04/25/2022: Battle Axe Update\n\n• Added diamethyst battle axes.",
+        "1.0.0-1.18.2": "04/22/2022: Official Release\n\n• Added copper weapons, tools, armor, and horse armor.",
+        "0.4.0-1.18.2": "04/18/2022: Budding Diamethyst Update\n\n• Added budding diamethyst blocks.\n• Added twice brewed budding brew potion.\n• Updated all potion advancements.",
+        "0.3.0-1.18.2": "04/15/2022: Horse Armor Update\n\n• Added craftable diamethyst horse armor in gold, iron, emerald, and diamond.",
+        "0.2.2-1.18.2": "04/14/2022\n\n• Piglins are now neutral to diamethyst golden armor.\n• Updated the iron pickaxe texture.",
+        "0.2.1-1.18.2": "04/12/2022\n\n• Fixed the attack speed of the diamethyst netherite sickle.",
+        "0.2.0-1.18.2": "04/11/2022\n\n• Added netherite upgrade options to all diamethyst diamond weapons, tools, and armor.",
+        "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     }
 }
