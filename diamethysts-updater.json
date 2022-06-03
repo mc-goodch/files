@@ -1,13 +1,14 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamethysts",
     "promos": {
-        "1.17.1-latest": "1.4.0-1.17.1",
-        "1.17.1-recommended": "1.4.0-1.17.1",
-        "1.18.2-latest": "1.4.0-1.18.2",
-        "1.18.2-recommended": "1.4.0-1.18.2"
+        "1.17.1-latest": "1.4.1-1.17.1",
+        "1.17.1-recommended": "1.4.1-1.17.1",
+        "1.18.2-latest": "1.4.1-1.18.2",
+        "1.18.2-recommended": "1.4.1-1.18.2"
     },
     "1.17.1": {
-        "1.4.0-1.17.1": "06/03/2022: Archery Update\n\n• Added a full range of diamethyst bows each with special abilities. The bows fire diamethyst arrows at a higher velocity and can zoom in further while aiming.\n• Added a selection of diamethyst arrows that affect hit enemies and/or blocks in different ways.\n• Added diamethyst shards that can be found randonly in chests scattered throughout the world. The shards can be used for arrow creation, ground into dust, or combined to make diamethyst crystals. Diamethyst crystals can now be broken into shards instead of dust. Diamethyst dust can no longer be returned into crystal form because... you know... it's dust!\n• Added a missing lapis armor story advancement.
+        "1.4.1-1.17.1": "06/03/2022\nSmall bug fix to the 1.4.0 release.",
+        "1.4.0-1.17.1": "06/03/2022: Archery Update\n\n• Added a full range of diamethyst bows each with special abilities. The bows fire diamethyst arrows at a higher velocity and can zoom in further while aiming.\n• Added a selection of diamethyst arrows that affect hit enemies and/or blocks in different ways.\n• Added diamethyst shards that can be found randonly in chests scattered throughout the world. The shards can be used for arrow creation, ground into dust, or combined to make diamethyst crystals. Diamethyst crystals can now be broken into shards instead of dust. Diamethyst dust can no longer be returned into crystal form because... you know... it's dust!\n• Added a missing lapis armor story advancement.",
         "1.3.1-1.17.1": "05/27/2022\n\n• Piglins can now be distracted by all gold based diamethyst items.\n• Implemented the forge mod version checking system.\n• Changed the mod file name and version format.",
         "1.3.0-1.17.1": "05/24/2022: Stabby, Webby, Reachy update\n\n• Added a diamethyst knife. This short, stubby weapon has a fast attack speed, low attack damage, low durability, and cannot be enchanted. It is, however, extremely efficient at cutting through cobwebs without taking damage, and can cause extra strings to drop.\n• Added extended reach to all diamethyst tools, which increases based upon the materials used in the tool's construction. The enhancement only affects the tool's utility function and does not extend attack range.\n• Made some minor adjustments to the textures of swords, sickles, and hilts.\n• Diamethyst clusters can now be harvested intact by silk touch enchanted tools.\n• Added the missing lapis armor advancement.",
         "1.2.3-1.17.1": "05/16/2022\n\n• Added back some missing netherite smithing recipes. (thanks justkeepmining)",
@@ -18,7 +19,8 @@
         "0.4.0-1.17.1": "04/19/2022\n\n• Back port to 1.17.1"
     },
     "1.18.2": {
-        "1.4.0-1.18.2": "06/03/2022: Archery Update\n\n• Added a full range of diamethyst bows each with special abilities. The bows fire diamethyst arrows at a higher velocity and can zoom in further while aiming.\n• Added a selection of diamethyst arrows that affect hit enemies and/or blocks in different ways.\n• Added diamethyst shards that can be found randonly in chests scattered throughout the world. The shards can be used for arrow creation, ground into dust, or combined to make diamethyst crystals. Diamethyst crystals can now be broken into shards instead of dust. Diamethyst dust can no longer be returned into crystal form because... you know... it's dust!\n• Added a missing lapis armor story advancement.
+        "1.4.1-1.18.2": "06/03/2022\nSmall bug fix to the 1.4.0 release.",
+        "1.4.0-1.18.2": "06/03/2022: Archery Update\n\n• Added a full range of diamethyst bows each with special abilities. The bows fire diamethyst arrows at a higher velocity and can zoom in further while aiming.\n• Added a selection of diamethyst arrows that affect hit enemies and/or blocks in different ways.\n• Added diamethyst shards that can be found randonly in chests scattered throughout the world. The shards can be used for arrow creation, ground into dust, or combined to make diamethyst crystals. Diamethyst crystals can now be broken into shards instead of dust. Diamethyst dust can no longer be returned into crystal form because... you know... it's dust!\n• Added a missing lapis armor story advancement.",
         "1.3.1-1.18.2": "05/27/2022\n\n• Piglins can now be distracted by all gold based diamethyst items.\n• Implemented the forge mod version checking system.\n• Changed the mod file name and version format.",
         "1.3.0-1.18.2": "05/24/2022: Stabby, Webby, Reachy update\n\n• Added a diamethyst knife. This short, stubby weapon has a fast attack speed, low attack damage, low durability, and cannot be enchanted. It is, however, extremely efficient at cutting through cobwebs without taking damage, and can cause extra strings to drop.\n• Added extended reach to all diamethyst tools, which increases based upon the materials used in the tool's construction. The enhancement only affects the tool's utility function and does not extend attack range.\n• Made some minor adjustments to the textures of swords, sickles, and hilts.\n• Diamethyst Clusters can now be harvested intact by silk touch enchanted tools.\n• Added the missing lapis armor advancement.",
         "1.2.3-1.18.2": "05/16/2022\n\n• Added back some missing netherite smithing recipes. (thanks justkeepmining)",
