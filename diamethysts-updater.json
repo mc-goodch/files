@@ -4,7 +4,9 @@
         "1.17.1-latest": "1.4.2-1.17.1",
         "1.17.1-recommended": "1.4.2-1.17.1",
         "1.18.2-latest": "1.4.2-1.18.2",
-        "1.18.2-recommended": "1.4.2-1.18.2"
+        "1.18.2-recommended": "1.4.2-1.18.2",
+        "1.19-latest": "1.4.2-1.19",
+        "1.19-recommended": "1.4.2-1.19"
     },
     "1.17.1": {
         "1.4.2-1.17.1": "06/12/2022\n\n• Added a Diamethyst Charged Copper Arrow. The arrow discharges at the point of impact causing a lightning strike. To charge copper arrows, fire them into a Diamethyst block and get lightning to strike the block.\n• Fixed some arrow state persistence issues.",
@@ -37,5 +39,8 @@
         "0.2.1-1.18.2": "04/12/2022\n\n• Fixed the attack speed of the diamethyst netherite sickle.",
         "0.2.0-1.18.2": "04/11/2022\n\n• Added netherite upgrade options to all diamethyst diamond weapons, tools, and armor.",
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
+    },
+    "1.19": {
+        "1.4.2-1.19": "06/13/2022\n\n• Initial release of the 1.19 version."
     }
 }
