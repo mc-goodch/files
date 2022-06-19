@@ -1,14 +1,15 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamethysts",
     "promos": {
-        "1.17.1-latest": "1.4.2-1.17.1",
-        "1.17.1-recommended": "1.4.2-1.17.1",
-        "1.18.2-latest": "1.4.2-1.18.2",
-        "1.18.2-recommended": "1.4.2-1.18.2",
-        "1.19-latest": "1.4.2-1.19",
-        "1.19-recommended": "1.4.2-1.19"
+        "1.17.1-latest": "1.4.3-1.17.1",
+        "1.17.1-recommended": "1.4.3-1.17.1",
+        "1.18.2-latest": "1.4.3-1.18.2",
+        "1.18.2-recommended": "1.4.3-1.18.2",
+        "1.19-latest": "1.4.3-1.19",
+        "1.19-recommended": "1.4.3-1.19"
     },
     "1.17.1": {
+        "1.4.3-1.17.1": "06/18/2022\n\n• Added a configurable option to the Diamethyst Diamond Arrow so that it can now freeze water on contact. It also produces snowflake particles as it flies.",
         "1.4.2-1.17.1": "06/12/2022\n\n• Added a Diamethyst Charged Copper Arrow. The arrow discharges at the point of impact causing a lightning strike. To charge copper arrows, fire them into a Diamethyst block and get lightning to strike the block.\n• Fixed some arrow state persistence issues.",
         "1.4.1-1.17.1": "06/03/2022\n\nSmall bug fix to the 1.4.0 release.",
         "1.4.0-1.17.1": "06/03/2022: Archery Update\n\n• Added a full range of diamethyst bows each with special abilities. The bows fire diamethyst arrows at a higher velocity and can zoom in further while aiming.\n• Added a selection of diamethyst arrows that affect hit enemies and/or blocks in different ways.\n• Added diamethyst shards that can be found randonly in chests scattered throughout the world. The shards can be used for arrow creation, ground into dust, or combined to make diamethyst crystals. Diamethyst crystals can now be broken into shards instead of dust. Diamethyst dust can no longer be returned into crystal form because... you know... it's dust!\n• Added a missing lapis armor story advancement.",
@@ -22,6 +23,7 @@
         "0.4.0-1.17.1": "04/19/2022\n\n• Back port to 1.17.1"
     },
     "1.18.2": {
+        "1.4.3-1.18.2": "06/18/2022\n\n• Added a configurable option to the Diamethyst Diamond Arrow so that it can now freeze water on contact. It also produces snowflake particles as it flies.",
         "1.4.2-1.18.2": "06/12/2022\n\n• Added a Diamethyst Charged Copper Arrow. The arrow discharges at the point of impact causing a lightning strike. To charge copper arrows, fire them into a Diamethyst block and get lightning to strike the block.\n• Fixed some arrow state persistence issues.\n• Forge 40.1.30 is now required for this version.",
         "1.4.1-1.18.2": "06/03/2022\n\nSmall bug fix to the 1.4.0 release.",
         "1.4.0-1.18.2": "06/03/2022: Archery Update\n\n• Added a full range of diamethyst bows each with special abilities. The bows fire diamethyst arrows at a higher velocity and can zoom in further while aiming.\n• Added a selection of diamethyst arrows that affect hit enemies and/or blocks in different ways.\n• Added diamethyst shards that can be found randonly in chests scattered throughout the world. The shards can be used for arrow creation, ground into dust, or combined to make diamethyst crystals. Diamethyst crystals can now be broken into shards instead of dust. Diamethyst dust can no longer be returned into crystal form because... you know... it's dust!\n• Added a missing lapis armor story advancement.",
@@ -41,6 +43,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.4.3-1.19": "06/18/2022\n\n• Added a configurable option to the Diamethyst Diamond Arrow so that it can now freeze water on contact. It also produces snowflake particles as it flies.",
         "1.4.2-1.19": "06/13/2022\n\n• Initial release of the 1.19 version."
     }
 }
