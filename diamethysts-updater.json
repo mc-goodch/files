@@ -1,14 +1,15 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamethysts",
     "promos": {
-        "1.17.1-latest": "1.5.0-1.17.1",
-        "1.17.1-recommended": "1.5.0-1.17.1",
-        "1.18.2-latest": "1.5.0-1.18.2",
-        "1.18.2-recommended": "1.5.0-1.18.2",
-        "1.19-latest": "1.5.0-1.19",
-        "1.19-recommended": "1.5.0-1.19"
+        "1.17.1-latest": "1.5.1-1.17.1",
+        "1.17.1-recommended": "1.5.1-1.17.1",
+        "1.18.2-latest": "1.5.1-1.18.2",
+        "1.18.2-recommended": "1.5.1-1.18.2",
+        "1.19-latest": "1.5.1-1.19",
+        "1.19-recommended": "1.5.1-1.19"
     },
     "1.17.1": {
+        "1.5.1-1.17.1": "07/12/2022\n\n• Fixed an issue with the Diamethyst Bow bonus damage configuration options.",
         "1.5.0-1.17.1": "06/24/2022: Chainmail Armor Update\n\n• Added three new chainmail armor options - gold, iron, and copper.\n• Added gold, iron, and copper chainmail horse armor.\n• Horse armor now shows the protection level given to the horse.\n• Added a new Chain Link Maker tool that is used to craft the chain links for the new armors.\n• Added a copper nugget which should be interchangeable with copper nuggets from other mods.\n• Most metal armors and materials can now be melted down into nuggets.\n• Fixed a bug that prevented the crafting of Diamethyst Crystals. Oops!",
         "1.4.3-1.17.1": "06/18/2022\n\n• Added a configurable option to the Diamethyst Diamond Arrow so that it can now freeze water on contact. It also produces snowflake particles as it flies.",
         "1.4.2-1.17.1": "06/12/2022\n\n• Added a Diamethyst Charged Copper Arrow. The arrow discharges at the point of impact causing a lightning strike. To charge copper arrows, fire them into a Diamethyst block and get lightning to strike the block.\n• Fixed some arrow state persistence issues.",
@@ -24,6 +25,7 @@
         "0.4.0-1.17.1": "04/19/2022\n\n• Back port to 1.17.1"
     },
     "1.18.2": {
+        "1.5.1-1.18.2": "07/12/2022\n\n• Fixed an issue with the Diamethyst Bow bonus damage configuration options.",
         "1.5.0-1.18.2": "06/24/2022: Chainmail Armor Update\n\n• Added three new chainmail armor options - gold, iron, and copper.\n• Added gold, iron, and copper chainmail horse armor.\n• Horse armor now shows the protection level given to the horse.\n• Added a new Chain Link Maker tool that is used to craft the chain links for the new armors.\n• Added a copper nugget which should be interchangeable with copper nuggets from other mods.\n• Most metal armors and materials can now be melted down into nuggets.",
         "1.4.3-1.18.2": "06/18/2022\n\n• Added a configurable option to the Diamethyst Diamond Arrow so that it can now freeze water on contact. It also produces snowflake particles as it flies.",
         "1.4.2-1.18.2": "06/12/2022\n\n• Added a Diamethyst Charged Copper Arrow. The arrow discharges at the point of impact causing a lightning strike. To charge copper arrows, fire them into a Diamethyst block and get lightning to strike the block.\n• Fixed some arrow state persistence issues.\n• Forge 40.1.30 is now required for this version.",
@@ -45,6 +47,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.5.1-1.19": "07/12/2022\n\n• Fixed an issue with the Diamethyst Bow bonus damage configuration options.",
         "1.5.0-1.19": "06/24/2022: Chainmail Armor Update\n\n• Added three new chainmail armor options - gold, iron, and copper.\n• Added gold, iron, and copper chainmail horse armor.\n• Horse armor now shows the protection level given to the horse.\n• Added a new Chain Link Maker tool that is used to craft the chain links for the new armors.\n• Added a copper nugget which should be interchangeable with copper nuggets from other mods.\n• Most metal armors and materials can now be melted down into nuggets.",
         "1.4.3-1.19": "06/18/2022\n\n• Added a configurable option to the Diamethyst Diamond Arrow so that it can now freeze water on contact. It also produces snowflake particles as it flies.",
         "1.4.2-1.19": "06/13/2022\n\n• Initial release of the 1.19 version."
