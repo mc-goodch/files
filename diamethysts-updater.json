@@ -3,17 +3,18 @@
     "promos": {
         "1.16.5-latest": "0.1.0-1.16.5",
         "1.16.5-recommended": "0.1.0-1.16.5",
-        "1.17.1-latest": "1.5.1-1.17.1",
-        "1.17.1-recommended": "1.5.1-1.17.1",
-        "1.18.2-latest": "1.5.1-1.18.2",
-        "1.18.2-recommended": "1.5.1-1.18.2",
-        "1.19-latest": "1.5.2-1.19",
-        "1.19-recommended": "1.5.2-1.19"
+        "1.17.1-latest": "1.5.2-1.17.1",
+        "1.17.1-recommended": "1.5.2-1.17.1",
+        "1.18.2-latest": "1.5.1-2.18.2",
+        "1.18.2-recommended": "1.5.2-1.18.2",
+        "1.19-latest": "1.5.3-1.19",
+        "1.19-recommended": "1.5.3-1.19"
     },
     "1.16.5": {
         "0.1.0-1.16.5": "08/20/2022: Caves & Cliffs Backport Update\n\n• Initial beta release of the 1.16.5 version. The Caves & Cliffs Backport mod 1.16.5-7.2.0 is a required dependency."
     },
     "1.17.1": {
+        "1.5.2-1.17.1": "08/20/2022\n\n• Diamethyst arrows can now be fired from dispensers.",
         "1.5.1-1.17.1": "07/12/2022\n\n• Fixed an issue with the Diamethyst Bow bonus damage configuration options.",
         "1.5.0-1.17.1": "06/24/2022: Chainmail Armor Update\n\n• Added three new chainmail armor options - gold, iron, and copper.\n• Added gold, iron, and copper chainmail horse armor.\n• Horse armor now shows the protection level given to the horse.\n• Added a new Chain Link Maker tool that is used to craft the chain links for the new armors.\n• Added a copper nugget which should be interchangeable with copper nuggets from other mods.\n• Most metal armors and materials can now be melted down into nuggets.\n• Fixed a bug that prevented the crafting of Diamethyst Crystals. Oops!",
         "1.4.3-1.17.1": "06/18/2022\n\n• Added a configurable option to the Diamethyst Diamond Arrow so that it can now freeze water on contact. It also produces snowflake particles as it flies.",
@@ -30,6 +31,7 @@
         "0.4.0-1.17.1": "04/19/2022\n\n• Back port to 1.17.1"
     },
     "1.18.2": {
+        "1.5.2-1.18.2": "08/20/2022\n\n• Diamethyst arrows can now be fired from dispensers.",
         "1.5.1-1.18.2": "07/12/2022\n\n• Fixed an issue with the Diamethyst Bow bonus damage configuration options.",
         "1.5.0-1.18.2": "06/24/2022: Chainmail Armor Update\n\n• Added three new chainmail armor options - gold, iron, and copper.\n• Added gold, iron, and copper chainmail horse armor.\n• Horse armor now shows the protection level given to the horse.\n• Added a new Chain Link Maker tool that is used to craft the chain links for the new armors.\n• Added a copper nugget which should be interchangeable with copper nuggets from other mods.\n• Most metal armors and materials can now be melted down into nuggets.",
         "1.4.3-1.18.2": "06/18/2022\n\n• Added a configurable option to the Diamethyst Diamond Arrow so that it can now freeze water on contact. It also produces snowflake particles as it flies.",
@@ -52,6 +54,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.5.3-1.19": "08/20/2022\n\n• Diamethyst arrows can now be fired from dispensers.",
         "1.5.2-1.19": "07/18/2022\n\n• Updated to support Forge 1.19-41.0.99.",
         "1.5.1-1.19": "07/12/2022\n\n• Fixed an issue with the Diamethyst Bow bonus damage configuration options.",
         "1.5.0-1.19": "06/24/2022: Chainmail Armor Update\n\n• Added three new chainmail armor options - gold, iron, and copper.\n• Added gold, iron, and copper chainmail horse armor.\n• Horse armor now shows the protection level given to the horse.\n• Added a new Chain Link Maker tool that is used to craft the chain links for the new armors.\n• Added a copper nugget which should be interchangeable with copper nuggets from other mods.\n• Most metal armors and materials can now be melted down into nuggets.",
