@@ -1,8 +1,8 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamethysts",
     "promos": {
-        "1.16.5-latest": "0.1.1-1.16.5",
-        "1.16.5-recommended": "0.1.1-1.16.5",
+        "1.16.5-latest": "1.0.0-1.16.5",
+        "1.16.5-recommended": "1.0.0-1.16.5",
         "1.17.1-latest": "1.5.2-1.17.1",
         "1.17.1-recommended": "1.5.2-1.17.1",
         "1.18.2-latest": "1.5.1-2.18.2",
@@ -11,6 +11,7 @@
         "1.19-recommended": "1.5.3-1.19"
     },
     "1.16.5": {
+        "1.0.0-1.16.5": "09/14/2022\n\n• Official release of the 1.16.5 version.",
         "0.1.1-1.16.5": "08/23/2022\n\n• Fixed a server crash that could occur when drinking certain potions.",
         "0.1.0-1.16.5": "08/20/2022: Caves & Cliffs Backport Update\n\n• Initial beta release of the 1.16.5 version. The Caves & Cliffs Backport mod 1.16.5-7.2.0 is a required dependency."
     },
