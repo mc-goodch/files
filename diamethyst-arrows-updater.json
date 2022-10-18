@@ -7,8 +7,8 @@
         "1.17.1-recommended": "1.0.3-1.17.1",
         "1.18.2-latest": "1.0.3-1.18.2",
         "1.18.2-recommended": "1.0.3-1.18.2",
-        "1.19-latest": "1.0.4-1.19",
-        "1.19-recommended": "1.0.4-1.19"
+        "1.19-latest": "1.0.5-1.19",
+        "1.19-recommended": "1.0.5-1.19"
     },
     "1.16.5": {
         "1.0.1-1.16.5": "10/16/2022\n\n• Added a full range of colored smoke arrows.",
@@ -28,6 +28,7 @@
         "1.0.0-1.18.2": "06/16/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.0.5-1.19": "10/17/2022\n\n• Fixed a server side crash. Thanks to AxelWomble of the Friends United modpack for reporting the issue.",
         "1.0.4-1.19": "10/16/2022\n\n• Added a full range of colored smoke arrows.",
         "1.0.3-1.19": "09/02/2022\n\n• Fixed water and lava arrow payload placement issues.",
         "1.0.2-1.19": "08/22/2022\n\n• Updated the arrows so they can be fired from dispensers.",
