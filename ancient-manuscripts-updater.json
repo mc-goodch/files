@@ -1,37 +1,41 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/ancient-manuscripts",
     "promos": {
-        "1.16.5-latest": "1.0.3-1.16.5",
-        "1.16.5-recommended": "1.0.3-1.16.5",
-        "1.17.1-latest": "1.0.3-1.17.1",
-        "1.17.1-recommended": "1.0.3-1.17.1",
-        "1.18.2-latest": "1.0.3-1.18.2",
-        "1.18.2-recommended": "1.0.3-1.18.2",
-        "1.19.2-latest": "1.0.3-1.19.2",
-        "1.19.2-recommended": "1.0.3-1.19.2"
+        "1.16.5-latest": "1.0.4-1.16.5",
+        "1.16.5-recommended": "1.0.4-1.16.5",
+        "1.17.1-latest": "1.0.4-1.17.1",
+        "1.17.1-recommended": "1.0.4-1.17.1",
+        "1.18.2-latest": "1.0.4-1.18.2",
+        "1.18.2-recommended": "1.0.4-1.18.2",
+        "1.19.2-latest": "1.0.4-1.19.2",
+        "1.19.2-recommended": "1.0.4-1.19.2"
     },
     "1.16.5": {
-        "1.0.0-1.16.5": "09/19/2022\n\n• Initial release.",
-        "1.0.1-1.16.5": "09/19/2022\n\n• Increased the default librarian villager trade level to 3 (journeyman).\n• Added configuration options for villager and wandering trader trades.",
+        "1.0.4-1.16.5": "11/14/2022\n\n• Advancement bug fix.",
+        "1.0.3-1.16.5": "10/01/2022\n\n• Using an enchanted book in the recipe will now add more enchantments to that book (up to 5).",
         "1.0.2-1.16.5": "09/22/2022\n\n• Modified the way vanilla only enchantments are determined.\n• Tweaked the enchanted book glue texture.",
-        "1.0.3-1.16.5": "10/01/2022\n\n• Using an enchanted book in the recipe will now add more enchantments to that book (up to 5)."
+        "1.0.1-1.16.5": "09/19/2022\n\n• Increased the default librarian villager trade level to 3 (journeyman).\n• Added configuration options for villager and wandering trader trades.",
+        "1.0.0-1.16.5": "09/19/2022\n\n• Initial release."
     },
     "1.17.1": {
-        "1.0.0-1.17.1": "09/17/2022\n\n• Initial release.",
-        "1.0.1-1.17.1": "09/19/2022\n\n• Lowered the default number of trades that can be performed when purchasing ancient manuscripts from villagers or traders.\n• Added configuration options for villager and wandering trader trades.",
+        "1.0.4-1.17.1": "11/14/2022\n\n• Advancement bug fix.",
+        "1.0.3-1.17.1": "10/01/2022\n\n• Using an enchanted book in the recipe will now add more enchantments to that book (up to 5).",
         "1.0.2-1.17.1": "09/22/2022\n\n• Fixed a server side bug that would not let players join a multiplayer world. Sorry about that!\n• Modified the way vanilla only enchantments are determined.\n• Tweaked the enchanted book glue texture.",
-        "1.0.3-1.17.1": "10/01/2022\n\n• Using an enchanted book in the recipe will now add more enchantments to that book (up to 5)."
+        "1.0.1-1.17.1": "09/19/2022\n\n• Lowered the default number of trades that can be performed when purchasing ancient manuscripts from villagers or traders.\n• Added configuration options for villager and wandering trader trades.",
+        "1.0.0-1.17.1": "09/17/2022\n\n• Initial release."
     },
     "1.18.2": {
-        "1.0.0-1.18.2": "09/17/2022\n\n• Initial release.",
-        "1.0.1-1.18.2": "09/19/2022\n\n• Lowered the default number of trades that can be performed when purchasing ancient manuscripts from villagers or traders.\n• Added configuration options for villager and wandering trader trades.",
+        "1.0.4-1.18.2": "11/14/2022\n\n• Advancement bug fix.",
+        "1.0.3-1.18.2": "10/01/2022\n\n• Using an enchanted book in the recipe will now add more enchantments to that book (up to 5).",
         "1.0.2-1.18.2": "09/22/2022\n\n• Fixed a server side bug that would not let players join a multiplayer world. Sorry about that!\n• Modified the way vanilla only enchantments are determined.\n• Tweaked the enchanted book glue texture.",
-        "1.0.3-1.18.2": "10/01/2022\n\n• Using an enchanted book in the recipe will now add more enchantments to that book (up to 5)."
+        "1.0.1-1.18.2": "09/19/2022\n\n• Lowered the default number of trades that can be performed when purchasing ancient manuscripts from villagers or traders.\n• Added configuration options for villager and wandering trader trades.",
+        "1.0.0-1.18.2": "09/17/2022\n\n• Initial release."
     },
     "1.19.2": {
-        "1.0.0-1.19.2": "09/17/2022\n\n• Initial release.",
-        "1.0.1-1.19.2": "09/19/2022\n\n• Lowered the default number of trades that can be performed when purchasing ancient manuscripts from villagers or traders.\n• Added configuration options for villager and wandering trader trades.",
+        "1.0.4-1.19.2": "11/14/2022\n\n• Advancement bug fix.",
+        "1.0.3-1.19.2": "10/01/2022\n\n• Using an enchanted book in the recipe will now add more enchantments to that book (up to 5).",
         "1.0.2-1.19.2": "09/22/2022\n\n• Fixed a server side bug that would not let players join a multiplayer world. Sorry about that!\n• Modified the way vanilla only enchantments are determined.\n• Tweaked the enchanted book glue texture.",
-        "1.0.3-1.19.2": "10/01/2022\n\n• Using an enchanted book in the recipe will now add more enchantments to that book (up to 5)."
+        "1.0.1-1.19.2": "09/19/2022\n\n• Lowered the default number of trades that can be performed when purchasing ancient manuscripts from villagers or traders.\n• Added configuration options for villager and wandering trader trades.",
+        "1.0.0-1.19.2": "09/17/2022\n\n• Initial release."
     }
 }
