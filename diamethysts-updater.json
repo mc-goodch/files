@@ -11,14 +11,14 @@
         "1.19-recommended": "1.5.5-1.19"
     },
     "1.16.5": {
-        "1.0.2-1.16.5": "11/28/2022\n\n• Added the ability to adjust the base armor protection levels for each armor piece in the config.",
+        "1.0.2-1.16.5": "11/28/2022\n\n• Added the ability to adjust the base armor protection levels for each armor piece in the config.\n• Horse armors can now be configured individually.",
         "1.0.1-1.16.5": "10/23/2022: Prismarine Update\n\n• Added prismarine weapons, tools, armor, and horse armor.\n• Prismarine swords, sickles, battle axes, and bows do more damage when wet.\n• Prismarine armor provides players a better underwater experience.\n• Prismarine horse armor allows horses to be ridden in water.",
         "1.0.0-1.16.5": "09/14/2022\n\n• Official release of the 1.16.5 version.",
         "0.1.1-1.16.5": "08/23/2022\n\n• Fixed a server crash that could occur when drinking certain potions.",
         "0.1.0-1.16.5": "08/20/2022: Caves & Cliffs Backport Update\n\n• Initial beta release of the 1.16.5 version. The Caves & Cliffs Backport mod 1.16.5-7.2.0 is a required dependency."
     },
     "1.17.1": {
-        "1.5.4-1.17.1": "11/28/2022\n\n• Added the ability to adjust the base armor protection levels for each armor piece in the config.",
+        "1.5.4-1.17.1": "11/28/2022\n\n• Added the ability to adjust the base armor protection levels for each armor piece in the config.\n• Horse armors can now be configured individually.",
         "1.5.3-1.17.1": "10/23/2022: Prismarine Update\n\n• Added prismarine weapons, tools, armor, and horse armor.\n• Prismarine swords, sickles, battle axes, and bows do more damage when wet.\n• Prismarine armor provides players a better underwater experience.\n• Prismarine horse armor allows horses to be ridden in water.",
         "1.5.2-1.17.1": "08/20/2022\n\n• Diamethyst arrows can now be fired from dispensers.",
         "1.5.1-1.17.1": "07/12/2022\n\n• Fixed an issue with the Diamethyst Bow bonus damage configuration options.",
@@ -37,7 +37,7 @@
         "0.4.0-1.17.1": "04/19/2022\n\n• Back port to 1.17.1"
     },
     "1.18.2": {
-        "1.5.4-1.18.2": "11/28/2022\n\n• Added the ability to adjust the base armor protection levels for each armor piece in the config.",
+        "1.5.4-1.18.2": "11/28/2022\n\n• Added the ability to adjust the base armor protection levels for each armor piece in the config.\n• Horse armors can now be configured individually.",
         "1.5.3-1.18.2": "10/23/2022: Prismarine Update\n\n• Added prismarine weapons, tools, armor, and horse armor.\n• Prismarine swords, sickles, battle axes, and bows do more damage when wet.\n• Prismarine armor provides players a better underwater experience.\n• Prismarine horse armor allows horses to be ridden in water.",
         "1.5.2-1.18.2": "08/20/2022\n\n• Diamethyst arrows can now be fired from dispensers.",
         "1.5.1-1.18.2": "07/12/2022\n\n• Fixed an issue with the Diamethyst Bow bonus damage configuration options.",
@@ -62,7 +62,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
-        "1.5.5-1.19": "11/28/2022\n\n• Added the ability to adjust the base armor protection levels for each armor piece in the config.",
+        "1.5.5-1.19": "11/28/2022\n\n• Added the ability to adjust the base armor protection levels for each armor piece in the config.\n• Horse armors can now be configured individually.",
         "1.5.4-1.19": "10/23/2022: Prismarine Update\n\n• Added prismarine weapons, tools, armor, and horse armor.\n• Prismarine swords, sickles, battle axes, and bows do more damage when wet.\n• Prismarine armor provides players a better underwater experience.\n• Prismarine horse armor allows horses to be ridden in water.",
         "1.5.3-1.19": "08/20/2022\n\n• Diamethyst arrows can now be fired from dispensers.",
         "1.5.2-1.19": "07/18/2022\n\n• Updated to support Forge 1.19-41.0.99.",
