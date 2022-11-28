@@ -59,7 +59,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
-        "1.5.3-1.19": "10/23/2022: Prismarine Update\n\n• Added prismarine weapons, tools, armor, and horse armor.\n• Prismarine swords, sickles, battle axes, and bows do more damage when wet.\n• Prismarine armor provides players a better underwater experience.\n• Prismarine horse armor allows horses to be ridden in water.",
+        "1.5.4-1.19": "10/23/2022: Prismarine Update\n\n• Added prismarine weapons, tools, armor, and horse armor.\n• Prismarine swords, sickles, battle axes, and bows do more damage when wet.\n• Prismarine armor provides players a better underwater experience.\n• Prismarine horse armor allows horses to be ridden in water.",
         "1.5.3-1.19": "08/20/2022\n\n• Diamethyst arrows can now be fired from dispensers.",
         "1.5.2-1.19": "07/18/2022\n\n• Updated to support Forge 1.19-41.0.99.",
         "1.5.1-1.19": "07/12/2022\n\n• Fixed an issue with the Diamethyst Bow bonus damage configuration options.",
