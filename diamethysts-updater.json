@@ -7,8 +7,8 @@
         "1.17.1-recommended": "1.5.5-1.17.1",
         "1.18.2-latest": "1.5.5-1.18.2",
         "1.18.2-recommended": "1.5.5-1.18.2",
-        "1.19-latest": "1.5.6-1.19",
-        "1.19-recommended": "1.5.6-1.19"
+        "1.19-latest": "1.5.7-1.19",
+        "1.19-recommended": "1.5.7-1.19"
     },
     "1.16.5": {
         "1.0.3-1.16.5": "12/04/2022: Scimitar Update\n\n• Added diamethyst scimitars.\n• Updated textures of hilts, swords, and battle axes.\n• Fixed an issue with changing weapon speeds in the config.",
@@ -65,6 +65,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.5.7-1.19": "12/09/2022\n\n• Support for 1.19.2 was accidentally disabled in 1.5.5. It has been re-enabled in this version.",
         "1.5.6-1.19": "12/04/2022: Scimitar Update\n\n• Added diamethyst scimitars.\n• Updated textures of hilts, swords, and battle axes.\n• Fixed an issue with changing weapon speeds in the config.",
         "1.5.5-1.19": "11/28/2022\n\n• Added the ability to adjust the base armor protection levels for each armor piece in the config.\n• Horse armors can now be configured individually.",
         "1.5.4-1.19": "10/23/2022: Prismarine Update\n\n• Added prismarine weapons, tools, armor, and horse armor.\n• Prismarine swords, sickles, battle axes, and bows do more damage when wet.\n• Prismarine armor provides players a better underwater experience.\n• Prismarine horse armor allows horses to be ridden in water.",
