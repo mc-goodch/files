@@ -8,7 +8,9 @@
         "1.18.2-latest": "1.0.3-1.18.2",
         "1.18.2-recommended": "1.0.3-1.18.2",
         "1.19-latest": "1.0.5-1.19",
-        "1.19-recommended": "1.0.5-1.19"
+        "1.19-recommended": "1.0.5-1.19",
+        "1.19.3-latest": "1.0.6-1.19.3",
+        "1.19.3-recommended": "1.0.6-1.19.3"
     },
     "1.16.5": {
         "1.0.1-1.16.5": "10/16/2022\n\n• Added a full range of colored smoke arrows.",
@@ -34,5 +36,8 @@
         "1.0.2-1.19": "08/22/2022\n\n• Updated the arrows so they can be fired from dispensers.",
         "1.0.1-1.19": "07/18/2022\n\n• Updated to support Forge 1.19-41.0.99.",
         "1.0.0-1.19": "06/16/2022\n\n• Initial release."
+    },
+    "1.19.3": {
+        "1.0.6-1.19.3": "12/29/2022\n\n• Initial release of the 1.19.3 version."
     }
 }
