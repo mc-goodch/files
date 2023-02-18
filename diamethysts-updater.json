@@ -1,18 +1,19 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamethysts",
     "promos": {
-        "1.16.5-latest": "1.6.1-1.16.5",
-        "1.16.5-recommended": "1.6.1-1.16.5",
-        "1.17.1-latest": "1.6.1-1.17.1",
-        "1.17.1-recommended": "1.6.1-1.17.1",
-        "1.18.2-latest": "1.6.1-1.18.2",
-        "1.18.2-recommended": "1.6.1-1.18.2",
-        "1.19-latest": "1.6.1-1.19",
-        "1.19-recommended": "1.6.1-1.19",
-        "1.19.3-latest": "1.6.1-1.19.3",
-        "1.19.3-recommended": "1.6.1-1.19.3"
+        "1.16.5-latest": "1.6.2-1.16.5",
+        "1.16.5-recommended": "1.6.2-1.16.5",
+        "1.17.1-latest": "1.6.2-1.17.1",
+        "1.17.1-recommended": "1.6.2-1.17.1",
+        "1.18.2-latest": "1.6.2-1.18.2",
+        "1.18.2-recommended": "1.6.2-1.18.2",
+        "1.19-latest": "1.6.2-1.19",
+        "1.19-recommended": "1.6.2-1.19",
+        "1.19.3-latest": "1.6.2-1.19.3",
+        "1.19.3-recommended": "1.6.2-1.19.3"
     },
     "1.16.5": {
+        "1.6.2-1.16.5": "02/18/2023\n\n• Added a Diamethyst Diamond Arrow configuration option to freeze water into frosted ice if desired.\n• The Diamethyst Knife is now compatible with mods which use the tools/knives forge tag - such as Farmer's Delight.\n• Simplified Chinese translations provided by junshengxie.",
         "1.6.1-1.16.5": "01/28/2023\n\n• Added diamethyst glass blocks and glass panes. The glass block is blast resistant, can conduct redstone power, and emits light. The glass pane is blast resistant and emits a lower light than the block. Use a blast furnace to smelt diamethyst crystals into glass blocks.\n• Diamethyst axes, hoes, pickaxes, shovels, and hilts made with gold, copper, or iron can now be melted down into a nugget of their metal type.",
         "1.6.0-1.16.5": "01/16/2023: The Great Rebalancing\n\n• Removed the amethyst + diamond diamethyst crystal crafting recipe, and added a config option to re-enable it if desired.\n •Reduced the diamethyst shard chest drops and added more chests they can be found in.\n •Added diamethyst shard drops from Pillagers, Vindicators, and Evokers.\n •Changed the drops from budding diamethyst clusters to 2-4 shards instead of a single crystal.\n •Updated the trades from cleric villagers and wandering traders, and added config options.\n •Cleric villagers can sometimes give diamethyst shards as hero of the village gifts.\n •Added all diamethyst pickaxes to the cluster_max_harvestables forge tag group.\n •Changed the diamethyst knife recipe to use a shard instead of a crystal.\n •Changed the shard texture.\n •Reordered and added advancements.",
         "1.0.3-1.16.5": "12/04/2022: Scimitar Update\n\n• Added diamethyst scimitars.\n• Updated textures of hilts, swords, and battle axes.\n• Fixed an issue with changing weapon speeds in the config.",
@@ -23,6 +24,7 @@
         "0.1.0-1.16.5": "08/20/2022: Caves & Cliffs Backport Update\n\n• Initial beta release of the 1.16.5 version. The Caves & Cliffs Backport mod 1.16.5-7.2.0 is a required dependency."
     },
     "1.17.1": {
+        "1.6.2-1.17.1": "02/18/2023\n\n• Added a Diamethyst Diamond Arrow configuration option to freeze water into frosted ice if desired.\n• The Diamethyst Knife is now compatible with mods which use the tools/knives forge tag - such as Farmer's Delight.\n• Simplified Chinese translations provided by junshengxie.",
         "1.6.1-1.17.1": "01/28/2023\n\n• Added diamethyst glass blocks and glass panes. The glass block is blast resistant, can conduct redstone power, and emits light. The glass pane is blast resistant and emits a lower light than the block. Use a blast furnace to smelt diamethyst crystals into glass blocks.\n• Diamethyst axes, hoes, pickaxes, shovels, and hilts made with gold, copper, or iron can now be melted down into a nugget of their metal type.",
         "1.6.0-1.17.1": "01/16/2023: The Great Rebalancing\n\n• Removed the amethyst + diamond diamethyst crystal crafting recipe, and added a config option to re-enable it if desired.\n •Reduced the diamethyst shard chest drops and added more chests they can be found in.\n •Added diamethyst shard drops from Pillagers, Vindicators, and Evokers.\n •Changed the drops from budding diamethyst clusters to 2-4 shards instead of a single crystal.\n •Updated the trades from cleric villagers and wandering traders, and added config options.\n •Cleric villagers can sometimes give diamethyst shards as hero of the village gifts.\n •Added all diamethyst pickaxes to the cluster_max_harvestables forge tag group.\n •Changed the diamethyst knife recipe to use a shard instead of a crystal.\n •Changed the shard texture.\n •Reordered and added advancements.",
         "1.5.5-1.17.1": "12/04/2022: Scimitar Update\n\n• Added diamethyst scimitars.\n• Updated textures of hilts, swords, and battle axes.\n• Fixed an issue with changing weapon speeds in the config.",
@@ -45,6 +47,7 @@
         "0.4.0-1.17.1": "04/19/2022\n\n• Back port to 1.17.1"
     },
     "1.18.2": {
+        "1.6.2-1.18.2": "02/18/2023\n\n• Added a Diamethyst Diamond Arrow configuration option to freeze water into frosted ice if desired.\n• The Diamethyst Knife is now compatible with mods which use the tools/knives forge tag - such as Farmer's Delight.\n• Simplified Chinese translations provided by junshengxie.",
         "1.6.1-1.18.2": "01/28/2023\n\n• Added diamethyst glass blocks and glass panes. The glass block is blast resistant, can conduct redstone power, and emits light. The glass pane is blast resistant and emits a lower light than the block. Use a blast furnace to smelt diamethyst crystals into glass blocks.\n• Diamethyst axes, hoes, pickaxes, shovels, and hilts made with gold, copper, or iron can now be melted down into a nugget of their metal type.",
         "1.6.0-1.18.2": "01/16/2023: The Great Rebalancing\n\n• Removed the amethyst + diamond diamethyst crystal crafting recipe, and added a config option to re-enable it if desired.\n •Reduced the diamethyst shard chest drops and added more chests they can be found in.\n •Added diamethyst shard drops from Pillagers, Vindicators, and Evokers.\n •Changed the drops from budding diamethyst clusters to 2-4 shards instead of a single crystal.\n •Updated the trades from cleric villagers and wandering traders, and added config options.\n •Cleric villagers can sometimes give diamethyst shards as hero of the village gifts.\n •Added all diamethyst pickaxes to the cluster_max_harvestables forge tag group.\n •Changed the diamethyst knife recipe to use a shard instead of a crystal.\n •Changed the shard texture.\n •Reordered and added advancements.",
         "1.5.5-1.18.2": "12/04/2022: Scimitar Update\n\n• Added diamethyst scimitars.\n• Updated textures of hilts, swords, and battle axes.\n• Fixed an issue with changing weapon speeds in the config.",
@@ -73,6 +76,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.6.2-1.19": "02/18/2023\n\n• Added a Diamethyst Diamond Arrow configuration option to freeze water into frosted ice if desired.\n• The Diamethyst Knife is now compatible with mods which use the tools/knives forge tag - such as Farmer's Delight.\n• Simplified Chinese translations provided by junshengxie.",
         "1.6.1-1.19": "01/28/2023\n\n• Added diamethyst glass blocks and glass panes. The glass block is blast resistant, can conduct redstone power, and emits light. The glass pane is blast resistant and emits a lower light than the block. Use a blast furnace to smelt diamethyst crystals into glass blocks.\n• Diamethyst axes, hoes, pickaxes, shovels, and hilts made with gold, copper, or iron can now be melted down into a nugget of their metal type.",
         "1.6.0-1.19": "01/16/2023: The Great Rebalancing\n\n• Removed the amethyst + diamond diamethyst crystal crafting recipe, and added a config option to re-enable it if desired.\n •Reduced the diamethyst shard chest drops and added more chests they can be found in.\n •Added diamethyst shard drops from Pillagers, Vindicators, and Evokers.\n •Changed the drops from budding diamethyst clusters to 2-4 shards instead of a single crystal.\n •Updated the trades from cleric villagers and wandering traders, and added config options.\n •Cleric villagers can sometimes give diamethyst shards as hero of the village gifts.\n •Added all diamethyst pickaxes to the cluster_max_harvestables forge tag group.\n •Changed the diamethyst knife recipe to use a shard instead of a crystal.\n •Changed the shard texture.\n •Reordered and added advancements.",
         "1.5.7-1.19": "12/09/2022\n\n• Support for 1.19.2 was accidentally disabled in 1.5.5. It has been re-enabled in this version.",
@@ -87,6 +91,7 @@
         "1.4.2-1.19": "06/13/2022\n\n• Initial release of the 1.19 version."
     },
     "1.19.3": {
+        "1.6.2-1.19.3": "02/18/2023\n\n• Added a Diamethyst Diamond Arrow configuration option to freeze water into frosted ice if desired.\n• The Diamethyst Knife is now compatible with mods which use the tools/knives forge tag - such as Farmer's Delight.\n• Simplified Chinese translations provided by junshengxie.",
         "1.6.1-1.19.3": "01/28/2023\n\n• Added diamethyst glass blocks and glass panes. The glass block is blast resistant, can conduct redstone power, and emits light. The glass pane is blast resistant and emits a lower light than the block. Use a blast furnace to smelt diamethyst crystals into glass blocks.\n• Diamethyst axes, hoes, pickaxes, shovels, and hilts made with gold, copper, or iron can now be melted down into a nugget of their metal type.",
         "1.6.0-1.19.3": "01/16/2023: The Great Rebalancing\n\n• Removed the amethyst + diamond diamethyst crystal crafting recipe, and added a config option to re-enable it if desired.\n •Reduced the diamethyst shard chest drops and added more chests they can be found in.\n •Added diamethyst shard drops from Pillagers, Vindicators, and Evokers.\n •Changed the drops from budding diamethyst clusters to 2-4 shards instead of a single crystal.\n •Updated the trades from cleric villagers and wandering traders, and added config options.\n •Cleric villagers can sometimes give diamethyst shards as hero of the village gifts.\n •Added all diamethyst pickaxes to the cluster_max_harvestables forge tag group.\n •Changed the diamethyst knife recipe to use a shard instead of a crystal.\n •Changed the shard texture.\n •Reordered and added advancements.",
         "1.5.8-1.19.3": "12/22/2022\n\n• Initial release of the 1.19.3 version."
