@@ -1,20 +1,23 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/ancient-manuscripts",
     "promos": {
-        "1.16.5-latest": "1.1.1-1.16.5",
-        "1.16.5-recommended": "1.1.1-1.16.5",
-        "1.17.1-latest": "1.1.1-1.17.1",
-        "1.17.1-recommended": "1.1.1-1.17.1",
-        "1.18.2-latest": "1.1.1-1.18.2",
-        "1.18.2-recommended": "1.1.1-1.18.2",
-        "1.19-latest": "1.1.1-1.19",
-        "1.19-recommended": "1.1.1-1.19",
-        "1.19.2-latest": "1.1.1-1.19",
-        "1.19.2-recommended": "1.1.1-1.19",
+        "1.16.5-latest": "1.1.2-1.16.5",
+        "1.16.5-recommended": "1.1.2-1.16.5",
+        "1.17.1-latest": "1.1.2-1.17.1",
+        "1.17.1-recommended": "1.1.2-1.17.1",
+        "1.18.2-latest": "1.1.2-1.18.2",
+        "1.18.2-recommended": "1.1.2-1.18.2",
+        "1.19-latest": "1.1.2-1.19",
+        "1.19-recommended": "1.1.2-1.19",
+        "1.19.2-latest": "1.1.2-1.19",
+        "1.19.2-recommended": "1.1.2-1.19",
         "1.19.3-latest": "1.1.1-1.19.3",
-        "1.19.3-recommended": "1.1.1-1.19.3"
+        "1.19.3-recommended": "1.1.1-1.19.3",
+        "1.19.4-latest": "1.1.2-1.19.4",
+        "1.19.4-recommended": "1.1.2-1.19.4"
     },
     "1.16.5": {
+        "1.1.2-1.16.5": "04/08/2023\n\n• Updated the Simplified Chinese translations.\n• Added Traditional Chinese translations (thanks junshengxie).",
         "1.1.1-1.16.5": "02/25/2023\n\n• Added two new binding table types: Warped and Crimson.\n• Updated the Simplified Chinese translations.",
         "1.1.0-1.16.5": "02/12/2023: Binding Table Update\n\nThis is a significant update to the mod and includes the following changes:\n• Added a binding table that must now be used to create enchanted books from manuscripts pages.\n• Added a reusable empty glue bottle item that is the base of the enchanted book glue recipe.\n• Added an alternative enchanted book glue recipe that allows the use of glue bottles that contain 50% or less glue instead of an empty glue bottle.\n• Added a config option to disable or enable treasure enchantments from being applied to resulting books. Enabled by default.\n• Added a config option to specify the maximum number of enchantments (up to 10) that can be applied to a single book.\n• Librarian villagers may sometimes gift village heros with an ancient manuscript.\n• The mod now has its own creative tab.",
         "1.0.5-1.16.5": "01/08/2023\n\n• Added an enchantment blacklist system that allows the blocking any and all mod specific enchantments from the enchanted book recipe.\n• Fixed an enchantment duplication bug.\n• Added Simplified Chinese translations (thanks junshengxie).",
@@ -25,6 +28,7 @@
         "1.0.0-1.16.5": "09/19/2022\n\n• Initial release."
     },
     "1.17.1": {
+        "1.1.2-1.17.1": "04/08/2023\n\n• Updated the Simplified Chinese translations.\n• Added Traditional Chinese translations (thanks junshengxie).",
         "1.1.1-1.17.1": "02/25/2023\n\n• Added two new binding table types: Warped and Crimson.\n• Updated the Simplified Chinese translations.",
         "1.1.0-1.17.1": "02/12/2023: Binding Table Update\n\nThis is a significant update to the mod and includes the following changes:\n• Added a binding table that must now be used to create enchanted books from manuscripts pages.\n• Added a reusable empty glue bottle item that is the base of the enchanted book glue recipe.\n• Added an alternative enchanted book glue recipe that allows the use of glue bottles that contain 50% or less glue instead of an empty glue bottle.\n• Added a config option to disable or enable treasure enchantments from being applied to resulting books. Enabled by default.\n• Added a config option to specify the maximum number of enchantments (up to 10) that can be applied to a single book.\n• Librarian villagers may sometimes gift village heros with an ancient manuscript.\n• The mod now has its own creative tab.",
         "1.0.5-1.17.1": "01/08/2023\n\n• Added an enchantment blacklist system that allows the blocking any and all mod specific enchantments from the enchanted book recipe.\n• Fixed an enchantment duplication bug.\n• Added Simplified Chinese translations (thanks junshengxie).",
@@ -35,6 +39,7 @@
         "1.0.0-1.17.1": "09/17/2022\n\n• Initial release."
     },
     "1.18.2": {
+        "1.1.2-1.18.2": "04/08/2023\n\n• Updated the Simplified Chinese translations.\n• Added Traditional Chinese translations (thanks junshengxie).",
         "1.1.1-1.18.2": "02/25/2023\n\n• Added two new binding table types: Warped and Crimson.\n• Updated the Simplified Chinese translations.",
         "1.1.0-1.18.2": "02/12/2023: Binding Table Update\n\nThis is a significant update to the mod and includes the following changes:\n• Added a binding table that must now be used to create enchanted books from manuscripts pages.\n• Added a reusable empty glue bottle item that is the base of the enchanted book glue recipe.\n• Added an alternative enchanted book glue recipe that allows the use of glue bottles that contain 50% or less glue instead of an empty glue bottle.\n• Added a config option to disable or enable treasure enchantments from being applied to resulting books. Enabled by default.\n• Added a config option to specify the maximum number of enchantments (up to 10) that can be applied to a single book.\n• Librarian villagers may sometimes gift village heros with an ancient manuscript.\n• The mod now has its own creative tab.",
         "1.0.5-1.18.2": "01/08/2023\n\n• Added an enchantment blacklist system that allows the blocking any and all mod specific enchantments from the enchanted book recipe.\n• Fixed an enchantment duplication bug.\n• Added Simplified Chinese translations (thanks junshengxie).",
@@ -45,10 +50,12 @@
         "1.0.0-1.18.2": "09/17/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.1.2-1.19": "04/08/2023\n\n• Updated the Simplified Chinese translations.\n• Added Traditional Chinese translations (thanks junshengxie).",
         "1.1.1-1.19": "02/25/2023\n\n• Added two new binding table types: Warped and Crimson.\n• Updated the Simplified Chinese translations.",
         "1.1.0-1.19": "02/12/2023: Binding Table Update\n\nThis is a significant update to the mod and includes the following changes:\n• Added a binding table that must now be used to create enchanted books from manuscripts pages.\n• Added a reusable empty glue bottle item that is the base of the enchanted book glue recipe.\n• Added an alternative enchanted book glue recipe that allows the use of glue bottles that contain 50% or less glue instead of an empty glue bottle.\n• Added a config option to disable or enable treasure enchantments from being applied to resulting books. Enabled by default.\n• Added a config option to specify the maximum number of enchantments (up to 10) that can be applied to a single book.\n• Librarian villagers may sometimes gift village heros with an ancient manuscript.\n• The mod now has its own creative tab."
     },
     "1.19.2": {
+        "1.1.2-1.19": "04/08/2023\n\n• Updated the Simplified Chinese translations.\n• Added Traditional Chinese translations (thanks junshengxie).",
         "1.1.1-1.19": "02/25/2023\n\n• Added two new binding table types: Warped and Crimson.\n• Updated the Simplified Chinese translations.",
         "1.1.0-1.19": "02/12/2023: Binding Table Update\n\nThis is a significant update to the mod and includes the following changes:\n• Added a binding table that must now be used to create enchanted books from manuscripts pages.\n• Added a reusable empty glue bottle item that is the base of the enchanted book glue recipe.\n• Added an alternative enchanted book glue recipe that allows the use of glue bottles that contain 50% or less glue instead of an empty glue bottle.\n• Added a config option to disable or enable treasure enchantments from being applied to resulting books. Enabled by default.\n• Added a config option to specify the maximum number of enchantments (up to 10) that can be applied to a single book.\n• Librarian villagers may sometimes gift village heros with an ancient manuscript.\n• The mod now has its own creative tab.",
         "1.0.6-1.19.2": "01/08/2023\n\n• Added an enchantment blacklist system that allows the blocking any and all mod specific enchantments from the enchanted book recipe.\n• Fixed an enchantment duplication bug.\n• Added Simplified Chinese translations (thanks junshengxie).",
@@ -64,5 +71,8 @@
         "1.1.0-1.19.3": "02/12/2023: Binding Table Update\n\nThis is a significant update to the mod and includes the following changes:\n• Added a binding table that must now be used to create enchanted books from manuscripts pages.\n• Added a reusable empty glue bottle item that is the base of the enchanted book glue recipe.\n• Added an alternative enchanted book glue recipe that allows the use of glue bottles that contain 50% or less glue instead of an empty glue bottle.\n• Added a config option to disable or enable treasure enchantments from being applied to resulting books. Enabled by default.\n• Added a config option to specify the maximum number of enchantments (up to 10) that can be applied to a single book.\n• Librarian villagers may sometimes gift village heros with an ancient manuscript.\n• The mod now has its own creative tab.",
         "1.0.6-1.19.3": "01/08/2023\n\n• Added an enchantment blacklist system that allows the blocking any and all mod specific enchantments from the enchanted book recipe.\n• Fixed an enchantment duplication bug.\n• Added Simplified Chinese translations (thanks junshengxie).",
         "1.0.5-1.19.3": "12/31/2022\n\n• Initial release of the 1.19.3 version."
+    },
+    "1.19.4": {
+        "1.1.1-1.19.4": "02/25/2023\n\n• Initial release of the 1.19.4 version."
     }
 }
