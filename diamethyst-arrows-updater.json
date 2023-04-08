@@ -10,7 +10,9 @@
         "1.19-latest": "1.0.7-1.19",
         "1.19-recommended": "1.0.7-1.19",
         "1.19.3-latest": "1.0.8-1.19.3",
-        "1.19.3-recommended": "1.0.8-1.19.3"
+        "1.19.3-recommended": "1.0.8-1.19.3",
+        "1.19.4-latest": "1.0.8-1.19.4",
+        "1.19.4-recommended": "1.0.8-1.19.4"
     },
     "1.16.5": {
         "1.0.3-1.16.5": "03/05/2023\n\n• Added a Diamethyst Glow Arrow.\n• Set the minimum required version of Diamethysts to 1.6.0\n• Simplified Chinese translations provided by junshengxie.",
@@ -44,5 +46,8 @@
     "1.19.3": {
         "1.0.8-1.19.3": "03/05/2023\n\n• Added a Diamethyst Glow Arrow.\n• Set the minimum required version of Diamethysts to 1.6.0\n• Simplified Chinese translations provided by junshengxie.",
         "1.0.6-1.19.3": "12/29/2022\n\n• Initial release of the 1.19.3 version."
+    },
+    "1.19.4": {
+        "1.0.8-1.19.4": "04/08/2023\n\n• Initial release of the 1.19.4 version."
     }
 }
