@@ -99,5 +99,5 @@
     "1.19.4": {
         "1.6.3-1.19.4": "05/09/2023\n\n• Added Traditional Chinese language support (thanks junshengxie).",
         "1.6.2-1.19.4": "04/08/2023\n\n• Initial release of the 1.19.4 version.\n• Added support for the new 1.20 netherite smithing system.\n• Added support for all 1.20 trimmable armor types."
-    },
+    }
 }
