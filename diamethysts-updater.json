@@ -1,22 +1,23 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamethysts",
     "promos": {
-        "1.16.5-latest": "1.7.0-1.16.5",
-        "1.16.5-recommended": "1.7.0-1.16.5",
-        "1.17.1-latest": "1.7.0-1.17.1",
-        "1.17.1-recommended": "1.7.0-1.17.1",
-        "1.18.2-latest": "1.7.0-1.18.2",
-        "1.18.2-recommended": "1.7.0-1.18.2",
-        "1.19-latest": "1.7.0-1.19",
-        "1.19-recommended": "1.7.0-1.19",
+        "1.16.5-latest": "1.7.1-1.16.5",
+        "1.16.5-recommended": "1.7.1-1.16.5",
+        "1.17.1-latest": "1.7.1-1.17.1",
+        "1.17.1-recommended": "1.7.1-1.17.1",
+        "1.18.2-latest": "1.7.1-1.18.2",
+        "1.18.2-recommended": "1.7.1-1.18.2",
+        "1.19-latest": "1.7.1-1.19",
+        "1.19-recommended": "1.7.1-1.19",
         "1.19.3-latest": "1.6.3-1.19.4",
         "1.19.3-recommended": "1.6.3-1.19.4",
         "1.19.4-latest": "1.6.3-1.19.4",
         "1.19.4-recommended": "1.6.3-1.19.4",
-        "1.20.1-latest": "1.7.0-1.20.1",
-        "1.20.1-recommended": "1.7.0-1.20.1"
+        "1.20.1-latest": "1.7.1-1.20.1",
+        "1.20.1-recommended": "1.7.1-1.20.1"
     },
     "1.16.5": {
+        "1.7.1-1.16.5": "07/29/2023\n\n• Added more forge tag support to recipes and advancements.\n• Corrected the emerald arrow poison duration.\n• Linked the the lapis arrow confusion duration to the config.\n• Chinese language correction.",
         "1.7.0-1.16.5": "07/21/2023\n\n• Added a range of shields with varying levels of durability.\n• The knife can now be repaired with shards instead of crystals.\n• Updated the recipe advancements to use forge tags where appropriate.",
         "1.6.3-1.16.5": "05/09/2023\n\n• Added Traditional Chinese language support (thanks junshengxie).",
         "1.6.2-1.16.5": "02/18/2023\n\n• Added a Diamethyst Diamond Arrow configuration option to freeze water into frosted ice if desired.\n• The Diamethyst Knife is now compatible with mods which use the tools/knives forge tag - such as Farmer's Delight.\n• Simplified Chinese translations provided by junshengxie.",
@@ -30,6 +31,7 @@
         "0.1.0-1.16.5": "08/20/2022: Caves & Cliffs Backport Update\n\n• Initial beta release of the 1.16.5 version. The Caves & Cliffs Backport mod 1.16.5-7.2.0 is a required dependency."
     },
     "1.17.1": {
+        "1.7.1-1.17.1": "07/29/2023\n\n• Added more forge tag support to recipes and advancements.\n• Corrected the emerald arrow poison duration.\n• Linked the the lapis arrow confusion duration to the config.\n• Chinese language correction.",
         "1.7.0-1.17.1": "07/21/2023\n\n• Added a range of shields with varying levels of durability.\n• The knife can now be repaired with shards instead of crystals.\n• Updated the recipe advancements to use forge tags where appropriate.",
         "1.6.3-1.17.1": "05/09/2023\n\n• Added Traditional Chinese language support (thanks junshengxie).",
         "1.6.2-1.17.1": "02/18/2023\n\n• Added a Diamethyst Diamond Arrow configuration option to freeze water into frosted ice if desired.\n• The Diamethyst Knife is now compatible with mods which use the tools/knives forge tag - such as Farmer's Delight.\n• Simplified Chinese translations provided by junshengxie.",
@@ -55,6 +57,7 @@
         "0.4.0-1.17.1": "04/19/2022\n\n• Back port to 1.17.1"
     },
     "1.18.2": {
+        "1.7.1-1.18.2": "07/29/2023\n\n• Added more forge tag support to recipes and advancements.\n• Corrected the emerald arrow poison duration.\n• Linked the the lapis arrow confusion duration to the config.\n• Chinese language correction.",
         "1.7.0-1.18.2": "07/21/2023\n\n• Added a range of shields with varying levels of durability.\n• The knife can now be repaired with shards instead of crystals.\n• Updated the recipe advancements to use forge tags where appropriate.",
         "1.6.3-1.18.2": "05/09/2023\n\n• Added Traditional Chinese language support (thanks junshengxie).",
         "1.6.2-1.18.2": "02/18/2023\n\n• Added a Diamethyst Diamond Arrow configuration option to freeze water into frosted ice if desired.\n• The Diamethyst Knife is now compatible with mods which use the tools/knives forge tag - such as Farmer's Delight.\n• Simplified Chinese translations provided by junshengxie.",
@@ -86,6 +89,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.7.1-1.19": "07/29/2023\n\n• Added more forge tag support to recipes and advancements.\n• Corrected the emerald arrow poison duration.\n• Linked the the lapis arrow confusion duration to the config.\n• Chinese language correction.",
         "1.7.0-1.19": "07/21/2023\n\n• Added a range of shields with varying levels of durability.\n• The knife can now be repaired with shards instead of crystals.\n• Updated the recipe advancements to use forge tags where appropriate.",
         "1.6.3-1.19": "05/09/2023\n\n• Added Traditional Chinese language support (thanks junshengxie).",
         "1.6.2-1.19": "02/18/2023\n\n• Added a Diamethyst Diamond Arrow configuration option to freeze water into frosted ice if desired.\n• The Diamethyst Knife is now compatible with mods which use the tools/knives forge tag - such as Farmer's Delight.\n• Simplified Chinese translations provided by junshengxie.",
@@ -107,6 +111,7 @@
         "1.6.2-1.19.4": "04/08/2023\n\n• Initial release of the 1.19.4 version.\n• Added support for the new 1.20 netherite smithing system.\n• Added support for all 1.20 trimmable armor types."
     },
     "1.20.1": {
+        "1.7.1-1.20.1": "07/29/2023\n\n• Added more forge tag support to recipes and advancements.\n• Corrected the emerald arrow poison duration.\n• Linked the the lapis arrow confusion duration to the config.\n• Chinese language correction.",
         "1.7.0-1.20.1": "07/21/2023\n\n• Added a range of shields with varying levels of durability.\n• The knife can now be repaired with shards instead of crystals.\n• Updated the recipe advancements to use forge tags where appropriate.",
         "1.6.3-1.20.1": "07/06/2023\n\n• Initial release of the 1.20.1 version."
     }
