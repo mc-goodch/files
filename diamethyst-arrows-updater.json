@@ -12,9 +12,12 @@
         "1.19.3-latest": "1.0.9-1.19.4",
         "1.19.3-recommended": "1.0.9-1.19.4",
         "1.19.4-latest": "1.0.9-1.19.4",
-        "1.19.4-recommended": "1.0.9-1.19.4"
+        "1.19.4-recommended": "1.0.9-1.19.4",
+        "1.20.1-latest": "1.1.0-1.20.1",
+        "1.20.1-recommended": "1.1.0-1.20.1"
     },
     "1.16.5": {
+        "1.1.0-1.16.5": "08/12/2023\n\n• Added a Dragon's Breath arrow type.\n• Corrected the wither arrow wither effect duration.\n • Traditional Chinese language corrections.",
         "1.0.4-1.16.5": "05/09/2023\n\n• Glow arrows now provide light when fired into snow.\n• Traditional Chinese translations provided by junshengxie.",
         "1.0.3-1.16.5": "03/05/2023\n\n• Added a Diamethyst Glow Arrow.\n• Set the minimum required version of Diamethysts to 1.6.0\n• Simplified Chinese translations provided by junshengxie.",
         "1.0.1-1.16.5": "10/16/2022\n\n• Added a full range of colored smoke arrows.",
@@ -22,6 +25,7 @@
         "0.1.0-1.16.5": "09/02/2022\n\n• Initial beta release of the Diamethyst Arrows mod for 1.16.5."
     },
     "1.17.1": {
+        "1.1.0-1.17.1": "08/12/2023\n\n• Added a Dragon's Breath arrow type.\n• Corrected the wither arrow wither effect duration.\n • Traditional Chinese language corrections.",
         "1.0.6-1.17.1": "05/09/2023\n\n• Glow arrows now provide light when fired into snow.\n• Traditional Chinese translations provided by junshengxie.",
         "1.0.5-1.17.1": "03/05/2023\n\n• Added a Diamethyst Glow Arrow.\n• Set the minimum required version of Diamethysts to 1.6.0\n• Simplified Chinese translations provided by junshengxie.",
         "1.0.3-1.17.1": "10/16/2022\n\n• Added a full range of colored smoke arrows.",
@@ -30,6 +34,7 @@
         "1.0.0-1.17.1": "06/16/2022\n\n• Initial release."
     },
     "1.18.2": {
+        "1.1.0-1.18.2": "08/12/2023\n\n• Added a Dragon's Breath arrow type.\n• Corrected the wither arrow wither effect duration.\n • Traditional Chinese language corrections.",
         "1.0.6-1.18.2": "05/09/2023\n\n• Glow arrows now provide light when fired into snow.\n• Traditional Chinese translations provided by junshengxie.",
         "1.0.5-1.18.2": "03/05/2023\n\n• Added a Diamethyst Glow Arrow.\n• Set the minimum required version of Diamethysts to 1.6.0\n• Simplified Chinese translations provided by junshengxie.",
         "1.0.3-1.18.5": "10/16/2022\n\n• Added a full range of colored smoke arrows.",
@@ -38,6 +43,7 @@
         "1.0.0-1.18.2": "06/16/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.1.0-1.19": "08/12/2023\n\n• Added a Dragon's Breath arrow type.\n• Corrected the wither arrow wither effect duration.\n • Traditional Chinese language corrections.",
         "1.0.8-1.19": "05/09/2023\n\n• Glow arrows now provide light when fired into snow.\n• Traditional Chinese translations provided by junshengxie.",
         "1.0.7-1.19": "03/05/2023\n\n• Added a Diamethyst Glow Arrow.\n• Set the minimum required version of Diamethysts to 1.6.0\n• Simplified Chinese translations provided by junshengxie.",
         "1.0.5-1.19": "10/17/2022\n\n• Fixed a server side crash. Thanks to AxelWomble of the Friends United modpack for reporting the issue.",
@@ -50,5 +56,9 @@
     "1.19.4": {
         "1.0.9-1.19.4": "05/09/2023\n\n• Glow arrows now provide light when fired into snow.\n• Traditional Chinese translations provided by junshengxie.",
         "1.0.8-1.19.4": "04/08/2023\n\n• Initial release of the 1.19.4 version."
+    },
+    "1.20.1": {
+        "1.1.0-1.20.1": "08/12/2023\n\n• Added a Dragon's Breath arrow type.\n• Corrected the wither arrow wither effect duration.\n• Traditional Chinese language corrections.",
+        "1.0.9-1.20.1": "07/06/2023\n\n• Initial release of the 1.20.1 version."
     }
 }
