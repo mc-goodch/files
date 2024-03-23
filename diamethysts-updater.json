@@ -7,14 +7,14 @@
         "1.17.1-recommended": "1.8.1-1.17.1",
         "1.18.2-latest": "1.8.1-1.18.2",
         "1.18.2-recommended": "1.8.1-1.18.2",
-        "1.19-latest": "1.9.2-1.19",
-        "1.19-recommended": "1.9.2-1.19",
-        "1.19.3-latest": "1.9.2-1.19.4",
-        "1.19.3-recommended": "1.9.2-1.19.4",
-        "1.19.4-latest": "1.9.2-1.19.4",
-        "1.19.4-recommended": "1.9.2-1.19.4",
-        "1.20.1-latest": "1.9.2-1.20.1",
-        "1.20.1-recommended": "1.9.2-1.20.1"
+        "1.19-latest": "1.9.3-1.19",
+        "1.19-recommended": "1.9.3-1.19",
+        "1.19.3-latest": "1.9.3-1.19.4",
+        "1.19.3-recommended": "1.9.3-1.19.4",
+        "1.19.4-latest": "1.9.3-1.19.4",
+        "1.19.4-recommended": "1.9.3-1.19.4",
+        "1.20.1-latest": "1.9.3-1.20.1",
+        "1.20.1-recommended": "1.9.3-1.20.1"
     },
     "1.16.5": {
         "1.8.1-1.16.5": "09/23/2023\n\n• Increased the time that damage resistance and regeneration effects last on horse armor after the horse stops moving while being ridden.\n• Added missing arrow entity description strings.",
@@ -98,6 +98,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.9.3-1.19": "03/23/2024\n\n• Added support for the Realistic Horse Genetics mod. Horse armor now renders correctly (thanks Anabell for highlighting the issue).\n• Horse armor now provides persistent buffs when your horses are not being ridden.\n• Added fire resistance buff to the diamethyst netherite horse armor.\n• Updated all horse armor model textures.\n• Updated all player armor model and item textures.\n• Horse armor items no longer stack.\n• The scimitar now does slightly less damage than the sword.",
         "1.9.2-1.19": "11/12/2023\n\n• Updated Simplified Chinese translations.",
         "1.9.1-1.19": "10/28/2023\n\n• Fixed an issue with fishing rods not rendering the hook correctly.\n• Changed the default value of having regeneration on netherite armor to false in the config.\n• Lowered the regeneration effect value for netherite armor.\n• Lowered the damage resistance effect value for netherite armor.\n• Changed the blasting recipe for diamethyst glass to use shards instead of crystals.\n• Added a blasting recipe to convert diamethyst dust back into diamethyst shards.",
         "1.9.0-1.19": "10/21/2023: Arbalists and Anglers Update\n\n• Added a full range of crossbows.\n• Added a full range of fishing rods.\n• Hilt and bow sections now stack to 16.\n• Updated all bow textures to show a proper arrow when pulling back.\n• Added a missing copper nugget recipe advancement.\n• Updated copper, gold, and iron nugget blasting/smelting recipes to include more items.",
@@ -122,6 +123,7 @@
         "1.4.2-1.19": "06/13/2022\n\n• Initial release of the 1.19 version."
     },
     "1.19.4": {
+        "1.9.3-1.19.4": "03/23/2024\n\n• Added support for the Realistic Horse Genetics mod. Horse armor now renders correctly (thanks Anabell for highlighting the issue).\n• Horse armor now provides persistent buffs when your horses are not being ridden.\n• Added fire resistance buff to the diamethyst netherite horse armor.\n• Updated all horse armor model textures.\n• Updated all player armor model and item textures.\n• Horse armor items no longer stack.\n• The scimitar now does slightly less damage than the sword.",
         "1.9.2-1.19.4": "11/12/2023\n\n• Updated Simplified Chinese translations.",
         "1.9.1-1.19.4": "10/28/2023\n\n• Changed the default value of having regeneration on netherite armor to false in the config.\n• Lowered the regeneration effect value for netherite armor.\n• Lowered the damage resistance effect value for netherite armor.\n• Changed the blasting recipe for diamethyst glass to use shards instead of crystals.\n• Added a blasting recipe to convert diamethyst dust back into diamethyst shards.",
         "1.9.0-1.19.4": "10/21/2023: Arbalists and Anglers Update\n\n• Added a full range of crossbows.\n• Added a full range of fishing rods.\n• Added a range of shields with varying levels of durability.\n• Added quartz weapons, tools, and armor.\n• Added a quartz arrow.\n• Hilt and bow sections now stack to 16.\n• Updated all bow textures to show a proper arrow when pulling back.\n• Added a missing copper nugget recipe advancement.\n• Updated copper, gold, and iron nugget blasting/smelting recipes to include more items.\n• The knife can now be repaired with shards instead of crystals.\n• Updated the recipe advancements to use forge tags where appropriate.\n• Corrected the emerald arrow poison duration.\n• Linked the the lapis arrow confusion duration to the config.\n• Added support for the Better Combat mod.\n• Fixed an issue that allowed arrow effect clouds to spawn in lava.\n• Increased the time that damage resistance and regeneration effects last on horse armor after the horse stops moving while being ridden.\n• Added missing arrow entity description strings.",
@@ -129,6 +131,7 @@
         "1.6.2-1.19.4": "04/08/2023\n\n• Initial release of the 1.19.4 version.\n• Added support for the new 1.20 netherite smithing system.\n• Added support for all 1.20 trimmable armor types."
     },
     "1.20.1": {
+        "1.9.3-1.20.1": "03/23/2024\n\n• Added support for the Realistic Horse Genetics mod. Horse armor now renders correctly (thanks Anabell for highlighting the issue).\n• Horse armor now provides persistent buffs when your horses are not being ridden.\n• Added fire resistance buff to the diamethyst netherite horse armor.\n• Updated all horse armor model textures.\n• Updated all player armor model and item textures.\n• Horse armor items no longer stack.\n• The scimitar now does slightly less damage than the sword.",
         "1.9.2-1.20.1": "11/12/2023\n\n• Updated Simplified Chinese translations.",
         "1.9.1-1.20.1": "10/28/2023\n\n• Changed the default value of having regeneration on netherite armor to false in the config.\n• Lowered the regeneration effect value for netherite armor.\n• Lowered the damage resistance effect value for netherite armor.\n• Changed the blasting recipe for diamethyst glass to use shards instead of crystals.\n• Added a blasting recipe to convert diamethyst dust back into diamethyst shards.",
         "1.9.0-1.20.1": "10/21/2023: Arbalists and Anglers Update\n\n• Added a full range of crossbows.\n• Added a full range of fishing rods.\n• Hilt and bow sections now stack to 16.\n• Updated all bow textures to show a proper arrow when pulling back.\n• Added a missing copper nugget recipe advancement.\n• Updated copper, gold, and iron nugget blasting/smelting recipes to include more items.",
