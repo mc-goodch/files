@@ -1,20 +1,20 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamethyst-medieval-weapons",
     "promos": {
-        "1.19-latest": "1.0.0-1.19",
-        "1.19-recommended": "1.0.0-1.19",
-        "1.19.4-latest": "1.0.0-1.19.4",
-        "1.19.4-recommended": "1.0.0-1.19.4",
-        "1.20.1-latest": "1.0.0-1.20.1",
-        "1.20.1-recommended": "1.0.0-1.20.1"
+        "1.19-latest": "1.0.0",
+        "1.19-recommended": "1.0.0",
+        "1.19.4-latest": "1.0.0",
+        "1.19.4-recommended": "1.0.0",
+        "1.20.1-latest": "1.0.0",
+        "1.20.1-recommended": "1.0.0"
     },
     "1.19": {
-        "1.0.0-1.19": "05/24/2024\n\n• Initial release."
+        "1.0.0": "05/24/2024\n\n• Initial release."
     },
     "1.19.4": {
-        "1.0.0-1.19.4": "05/24/2024\n\n• Initial release."
+        "1.0.0": "05/24/2024\n\n• Initial release."
     },
     "1.20.1": {
-        "1.0.0-1.20.1": "05/24/2024\n\n• Initial release."
+        "1.0.0": "05/24/2024\n\n• Initial release."
     }
 }
