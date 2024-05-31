@@ -1,0 +1,10 @@
+{
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/diamethysts-t2-loot",
+    "promos": {
+        "1.20.1-latest": "1.0.0-1.20.1",
+        "1.20.1-recommended": "1.0.0-1.20.1"
+    },
+    "1.20.1": {
+        "1.0.0-1.20.1": "06/01/2024\n\n• Initial release."
+    }
+}
