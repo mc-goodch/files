@@ -7,14 +7,14 @@
         "1.17.1-recommended": "1.8.1-1.17.1",
         "1.18.2-latest": "1.8.1-1.18.2",
         "1.18.2-recommended": "1.8.1-1.18.2",
-        "1.19-latest": "1.9.5-1.19",
-        "1.19-recommended": "1.9.5-1.19",
-        "1.19.3-latest": "1.9.5-1.19.4",
-        "1.19.3-recommended": "1.9.5-1.19.4",
-        "1.19.4-latest": "1.9.5-1.19.4",
-        "1.19.4-recommended": "1.9.5-1.19.4",
-        "1.20.1-latest": "1.9.5-1.20.1",
-        "1.20.1-recommended": "1.9.5-1.20.1"
+        "1.19-latest": "1.9.6-1.19",
+        "1.19-recommended": "1.9.6-1.19",
+        "1.19.3-latest": "1.9.6-1.19.4",
+        "1.19.3-recommended": "1.9.6-1.19.4",
+        "1.19.4-latest": "1.9.6-1.19.4",
+        "1.19.4-recommended": "1.9.6-1.19.4",
+        "1.20.1-latest": "1.9.6-1.20.1",
+        "1.20.1-recommended": "1.9.6-1.20.1"
     },
     "1.16.5": {
         "1.8.1-1.16.5": "09/23/2023\n\n• Increased the time that damage resistance and regeneration effects last on horse armor after the horse stops moving while being ridden.\n• Added missing arrow entity description strings.",
@@ -98,6 +98,7 @@
         "0.1.0-1.18.2": "04/08/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.9.6-1.19": "08/13/2024\n\n• Fixed a bug that would crash the game when drinking either of the Web Goo Brews in the Diamethyst Arrows add-on (thanks ItzTerra).\n• Fixed the Diamethyst Diamond Pickaxe weapon type in Better Combat.\n •Various other bug fixes and improvements.",
         "1.9.5-1.19": "05/18/2024\n\n• Reworked the loot tables for shards in chests.\n• Illagers may now drop a random number of shards on death.\n• Illager drops are now affected by looting enchantment.\n• Three new totems have been added for you to discover.",
         "1.9.4-1.19": "04/06/2024\n\n• Added support for the Shield Expansion mod.",
         "1.9.3-1.19": "03/23/2024\n\n• Added support for the Realistic Horse Genetics mod. Horse armor now renders correctly (thanks Anabell for highlighting the issue).\n• Horse armor now provides persistent buffs when your horses are not being ridden.\n• Added fire resistance buff to the diamethyst netherite horse armor.\n• Updated all horse armor model textures.\n• Updated all player armor model and item textures.\n• Horse armor items no longer stack.\n• The scimitar now does slightly less damage than the sword.",
@@ -125,6 +126,7 @@
         "1.4.2-1.19": "06/13/2022\n\n• Initial release of the 1.19 version."
     },
     "1.19.4": {
+        "1.9.6-1.19.4": "08/13/2024\n\n• Fixed a bug that would crash the game when drinking either of the Web Goo Brews in the Diamethyst Arrows add-on (thanks ItzTerra).\n• Fixed the Diamethyst Diamond Pickaxe weapon type in Better Combat.\n •Various other bug fixes and improvements.",
         "1.9.5-1.19.4": "05/18/2024\n\n• Reworked the loot tables for shards in chests.\n• Illagers may now drop a random number of shards on death.\n• Illager drops are now affected by looting enchantment.\n• Three new totems have been added for you to discover.\n• Fixed an issue with the netherite smithing recipes.",
         "1.9.4-1.19.4": "04/06/2024\n\n• Added support for the Shield Expansion mod.",
         "1.9.3-1.19.4": "03/23/2024\n\n• Added support for the Realistic Horse Genetics mod. Horse armor now renders correctly (thanks Anabell for highlighting the issue).\n• Horse armor now provides persistent buffs when your horses are not being ridden.\n• Added fire resistance buff to the diamethyst netherite horse armor.\n• Updated all horse armor model textures.\n• Updated all player armor model and item textures.\n• Horse armor items no longer stack.\n• The scimitar now does slightly less damage than the sword.",
@@ -135,6 +137,7 @@
         "1.6.2-1.19.4": "04/08/2023\n\n• Initial release of the 1.19.4 version.\n• Added support for the new 1.20 netherite smithing system.\n• Added support for all 1.20 trimmable armor types."
     },
     "1.20.1": {
+        "1.9.6-1.20.1": "08/13/2024\n\n• Fixed a bug that would crash the game when drinking either of the Web Goo Brews in the Diamethyst Arrows add-on (thanks ItzTerra).\n• Fixed the Diamethyst Diamond Pickaxe weapon type in Better Combat.\n •Various other bug fixes and improvements.",
         "1.9.5-1.20.1": "05/18/2024\n\n• Reworked the loot tables for shards in chests.\n• Shards can now be found in suspicious sand and suspicious gravel.\n• Illagers may now drop a random number of shards on death.\n• Illager drops are now affected by looting enchantment.\n• Three new totems have been added for you to discover.",
         "1.9.4-1.20.1": "04/06/2024\n\n• Added support for the Shield Expansion mod.",
         "1.9.3-1.20.1": "03/23/2024\n\n• Added support for the Realistic Horse Genetics mod. Horse armor now renders correctly (thanks Anabell for highlighting the issue).\n• Horse armor now provides persistent buffs when your horses are not being ridden.\n• Added fire resistance buff to the diamethyst netherite horse armor.\n• Updated all horse armor model textures.\n• Updated all player armor model and item textures.\n• Horse armor items no longer stack.\n• The scimitar now does slightly less damage than the sword.",
