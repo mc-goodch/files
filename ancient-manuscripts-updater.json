@@ -5,14 +5,14 @@
         "1.16.5-recommended": "1.1.2-1.16.5",
         "1.17.1-latest": "1.1.2-1.17.1",
         "1.17.1-recommended": "1.1.2-1.17.1",
-        "1.18.2-latest": "1.1.2-1.18.2",
-        "1.18.2-recommended": "1.1.2-1.18.2",
-        "1.19-latest": "1.1.5-1.19",
-        "1.19-recommended": "1.1.5-1.19",
-        "1.19.4-latest": "1.1.5-1.19.4",
-        "1.19.4-recommended": "1.1.5-1.19.4",
-        "1.20.1-latest": "1.1.5-1.20.1",
-        "1.20.1-recommended": "1.1.5-1.20.1"
+        "1.18.2-latest": "1.1.7-1.18.2",
+        "1.18.2-recommended": "1.1.7-1.18.2",
+        "1.19-latest": "1.1.7-1.19",
+        "1.19-recommended": "1.1.7-1.19",
+        "1.19.4-latest": "1.1.7-1.19.4",
+        "1.19.4-recommended": "1.1.7-1.19.4",
+        "1.20.1-latest": "1.1.7-1.20.1",
+        "1.20.1-recommended": "1.1.7-1.20.1"
     },
     "1.16.5": {
         "1.1.2-1.16.5": "04/08/2023\n\n• Updated the Simplified Chinese translations.\n• Added Traditional Chinese translations (thanks junshengxie).",
@@ -37,6 +37,7 @@
         "1.0.0-1.17.1": "09/17/2022\n\n• Initial release."
     },
     "1.18.2": {
+        "1.1.7-1.18.2": "02/03/2025\n\n• Added more chests for manuscripts to be found in.\n• The 1.18.2 version is now up to date with the latest release.",
         "1.1.2-1.18.2": "04/08/2023\n\n• Updated the Simplified Chinese translations.\n• Added Traditional Chinese translations (thanks junshengxie).",
         "1.1.1-1.18.2": "02/25/2023\n\n• Added two new binding table types: Warped and Crimson.\n• Updated the Simplified Chinese translations.",
         "1.1.0-1.18.2": "02/12/2023: Binding Table Update\n\nThis is a significant update to the mod and includes the following changes:\n• Added a binding table that must now be used to create enchanted books from manuscripts pages.\n• Added a reusable empty glue bottle item that is the base of the enchanted book glue recipe.\n• Added an alternative enchanted book glue recipe that allows the use of glue bottles that contain 50% or less glue instead of an empty glue bottle.\n• Added a config option to disable or enable treasure enchantments from being applied to resulting books. Enabled by default.\n• Added a config option to specify the maximum number of enchantments (up to 10) that can be applied to a single book.\n• Librarian villagers may sometimes gift village heros with an ancient manuscript.\n• The mod now has its own creative tab.",
@@ -48,6 +49,7 @@
         "1.0.0-1.18.2": "09/17/2022\n\n• Initial release."
     },
     "1.19": {
+        "1.1.7-1.19": "02/03/2025\n\n• Added more chests for manuscripts to be found in.",
         "1.1.6-1.19": "05/29/2024\n\n• Manuscript pages can now be substituted via data packs.\n• The binding table now uses Forge tags for certain slots.\n• Added sound effects to the binding table when it's active.\n• More Forge tags were added to recipes and advancements.",
         "1.1.5-1.19": "05/10/2024\n\n• Added more chests for manuscripts to be found in.\n• More than one manuscript can now be found in chests.\n• Witches now drop up to two manuscripts and the chance is increased with looting.\n •Witches no longer drop manuscripts unless killed by the player.",
         "1.1.2-1.19": "04/08/2023\n\n• Updated the Simplified Chinese translations.\n• Added Traditional Chinese translations (thanks junshengxie).",
@@ -67,11 +69,13 @@
         "1.0.0-1.19.2": "09/17/2022\n\n• Initial release."
     },
     "1.19.4": {
+        "1.1.7-1.19.4": "02/03/2025\n\n• Added more chests for manuscripts to be found in.",
         "1.1.6-1.19.4": "05/29/2024\n\n• Manuscript pages can now be substituted via data packs.\n• The binding table now uses Forge tags for certain slots.\n• Added sound effects to the binding table when it's active.\n• More Forge tags were added to recipes and advancements.",
         "1.1.5-1.19.4": "05/10/2024\n\n• Added more chests for manuscripts to be found in.\n• More than one manuscript can now be found in chests.\n• Witches now drop up to two manuscripts and the chance is increased with looting.\n •Witches no longer drop manuscripts unless killed by the player.",
         "1.1.2-1.19.4": "04/08/2023\n\n• Initial release of the 1.19.4 version."
     },
     "1.20.1": {
+        "1.1.7-1.20.1": "02/03/2025\n\n• Added more chests for manuscripts to be found in.",
         "1.1.6-1.20.1": "05/29/2024\n\n• Manuscript pages can now be substituted via data packs.\n• The binding table now uses Forge tags for certain slots.\n• Added sound effects to the binding table when it's active.\n• More Forge tags were added to recipes and advancements.",
         "1.1.5-1.20.1": "05/10/2024\n\n• Added more chests for manuscripts to be found in.\n• More than one manuscript can now be found in chests.\n• Witches now drop up to two manuscripts and the chance is increased with looting.\n •Witches no longer drop manuscripts unless killed by the player.",
         "1.1.4-1.20.1": "09/23/2023\n\n• Blocked the use of the mod in versions greater than 1.20.1 to prevent crashing.",
